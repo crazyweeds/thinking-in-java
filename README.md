@@ -4,7 +4,7 @@
 
 ### 第1章：对象入门(reading)
 
-    [实践项目：01-chapter1](https://github.com/crazyweeds/thinking-in-java/tree/master/01-chapter1)
+   [实践项目：01-chapter1](https://github.com/crazyweeds/thinking-in-java/tree/master/01-chapter1)
     
 ### 第2章：一切都是对象
 ### 第3章：控制程序流程
